@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "SpongeBob",
+      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+      "phone": "1234567890",
+      "email": "SpongeBob@gmail.com",
+      "DOB": "19/07/59"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Krabs",
+      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+      "phone": "23465376876879",
+      "email": "Krabs@gmail.com",
+      "DOB": "16/08/68"
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "phone": "23556476976",
+      "email": "Squidward@gmail.com",
+      "DOB": "01/01/56"
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+      "phone": "097890765365",
+      "email": "Dexter@gmail.com",
+      "DOB": "14/06/77"
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+      "phone": "04897538646712",
+      "email": "Courage@gmail.com",
+      "DOB": "29/03/82"
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+      "phone": "52476590098",
+      "email": "Funnie@gmail.com",
+      "DOB": "12/02/45"
+    },
+    {
+      "id": 7,
+      "name": "Bugs Bunny",
+      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+      "phone": "6667786609",
+      "email": "BugsBunny@gmail.com",
+      "DOB": "21/11/69"
+    },
+    {
+      "id": 8,
+      "name": "Johnny Bravo",
+      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+      "phone": "21347679789",
+      "email": "JohnnyBravo@gmail.com",
+      "DOB": "07/11/67"
+    },
+    {
+      "id": 9,
+      "name": "Tommy Pickles",
+      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+      "phone": "34263769213",
+      "email": "Pickles@gmail.com",
+      "DOB": "18/04/46"
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
+      "phone": "12355479812",
+      "email": "Rocko@gmail.com",
+      "DOB": "12/09/91"
+    },
+    {
+      "id": 11,
+      "name": "Captain Planet",
+      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
+      "phone": "97532435654",
+      "email": "CaptainP@gmail.com",
+      "DOB": "23/05/76"
+    },
+    {
+      "id": 12,
+      "name": "Ickis",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
+      "phone": "65768797634",
+      "email": "Ickis@gmail.com",
+      "DOB": "05/11/58"
+    }
+  ]

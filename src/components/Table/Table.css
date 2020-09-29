@@ -1,0 +1,21 @@
+
+.table {
+    margin-top: 20px;
+}
+
+img {
+    height:50px;
+}
+
+button {
+    color:white;
+    background-color: rgb(9, 9, 105);
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10%;
+
+}
