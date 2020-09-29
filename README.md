@@ -21,7 +21,7 @@
     npm install
 
   ## Usage
-  To use the Employee Directory, simply go the this link () and test it out. You can also download or clone the repository and lanch the app from you own computer. 
+  To use the Employee Directory, simply go the this link (https://tarmity.github.io/employee_directory/) and test it out. You can also download or clone the repository and lanch the app from you own computer. 
   
   
 
